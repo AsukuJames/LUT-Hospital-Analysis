@@ -136,7 +136,7 @@ The Excel workbook contains **three main analytical layers**.
 
 ## 1️⃣ Clean Data
 
-**Sheet:** `Clean Data`
+**Sheet:** ![Cleandataset](cleandata.png)
 
 This is the main dataset used for the analysis.
 
@@ -158,7 +158,7 @@ It contains:
 
 ## 2️⃣ Pivot Table Analysis
 
-**Sheet:** `Pivot Table`
+**Sheet:** ![Pivottable](pivotanalysis.png)
 
 Pivot Tables were used to summarize the cleaned dataset and generate the metrics required for the dashboard.
 
@@ -202,7 +202,7 @@ The Pivot Table layer serves as the **analytical engine** between the cleaned da
 
 # 📊 Dashboard
 
-**Sheet:** `Dashboard`
+**Sheet:** ![Dashboard](luthdashboard.png)
 
 The dashboard converts the Pivot Table analysis into a management-friendly visual report.
 
@@ -338,73 +338,6 @@ Business Insights
 Recommendations
 ```
 
----
-
-# 📁 Recommended GitHub Repository Structure
-
-To make the project easy for recruiters and hiring managers to navigate, the repository can be organized as follows:
-
-```text
-LUT-Hospital-Analysis/
-│
-├── README.md
-│
-├── data/
-│   └── LUT_Hospital_Analysis.xlsx
-│
-├── dashboard/
-│   └── LUT_Hospital_Dashboard.png
-│
-├── screenshots/
-│   ├── clean-data.png
-│   ├── pivot-table.png
-│   └── dashboard.png
-│
-└── documentation/
-    └── project-insights.md
-```
-
----
-
-# 📸 Project Screenshots
-
-## Clean Dataset
-
-The cleaned dataset contains the structured patient-level information used throughout the analysis.
-
-**Screenshot:**
-![Cleandataset](cleandata.png)
-
----
-
-## Pivot Table Analysis
-
-The Pivot Table sheet contains the analytical summaries used to generate the dashboard metrics and visualizations.
-
-**Screenshot:**
-![Pivottable](pivotanalysis.png)
-
----
-
-## Hospital Dashboard
-
-The dashboard provides a visual summary of hospital performance and patient-related metrics.
-
-**Screenshot:**
-![Dashboard](luthdashboard.png)
-
----
-
-# 📂 Project Files
-
-| Resource                 | Location                            |
-| ------------------------ | ----------------------------------- |
-| Excel Workbook / Dataset | `./data/LUT_Hospital_Analysis.xlsx` |
-| Clean Data               | `Clean Data` sheet inside workbook  |
-| Pivot Table Analysis     | `Pivot Table` sheet inside workbook |
-| Dashboard                | `Dashboard` sheet inside workbook   |
-| Dashboard Screenshot     | `./screenshots/dashboard.png`       |
-| Pivot Table Screenshot   | `./screenshots/pivot-table.png`     |
 
 ---
 
