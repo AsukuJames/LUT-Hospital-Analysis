@@ -373,7 +373,7 @@ LUT-Hospital-Analysis/
 The cleaned dataset contains the structured patient-level information used throughout the analysis.
 
 **Screenshot:**
-`./screenshots/clean-data.png`
+![Cleandataset](cleandata.png)
 
 ---
 
@@ -382,7 +382,7 @@ The cleaned dataset contains the structured patient-level information used throu
 The Pivot Table sheet contains the analytical summaries used to generate the dashboard metrics and visualizations.
 
 **Screenshot:**
-`./screenshots/pivot-table.png`
+![Pivottable](pivotanalysis.png)
 
 ---
 
@@ -391,7 +391,7 @@ The Pivot Table sheet contains the analytical summaries used to generate the das
 The dashboard provides a visual summary of hospital performance and patient-related metrics.
 
 **Screenshot:**
-`./screenshots/dashboard.png`
+![Dashboard](luthdashboard.png)
 
 ---
 
@@ -446,13 +446,13 @@ The project demonstrates how Excel can be used to convert hospital data into act
 `[Add your GitHub repository link here]`
 
 **Excel Dataset:**
-`./data/LUT_Hospital_Analysis.xlsx`
+![Cleandataset](cleandata.png)
 
 **Dashboard:**
 ![Dashboard](luthdashboard.png)
 
 **Pivot Table Analysis:**
-`./screenshots/pivot-table.png`
+![Pivottable](pivotanalysis.png)
 
 ---
 
